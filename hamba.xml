@@ -1,0 +1,40 @@
+<Product>
+<user>
+<id>ID</id>
+<name>NAME</name>
+<name>ADDRESS</name>
+<name>DEPARTMENT</name>
+<name>SALARY</name>
+</user>
+
+<user>
+<id>1</id>
+<name>JOHN DOE</name>
+<name>H#38,R#3,BANANI,DHAKA</name>
+<name>SALES</name>
+<name>20000</name>
+</user>
+
+<user>
+<id>2</id>
+<name>MARK</name>
+<name>MIRPUR,DHAKA</name>
+<name>ACCOUNTS</name>
+<name>12000</name>
+</user>
+
+<user>
+<id>3</id>
+<name>ALA VOSKI</name>
+<name>H#38,R#3,MOTHIJHEEL</name>
+<name>HUMAN RESOURCE</name>
+<name>30000</name>
+</user>
+
+</Product>
+
+
+
+
+
+
