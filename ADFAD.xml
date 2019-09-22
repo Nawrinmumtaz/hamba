@@ -1,0 +1,28 @@
+
+<Products>
+<user>
+<id>SL.NO.</id>
+<name>NAME</name>
+<date>ADMISSION DATE</date>
+</user>
+
+<user>
+<id>23</id>
+<name>SAMSUNG</name>
+<date>25/12/2015</date>
+</user>
+
+
+<user>
+<id>29</id>
+<name>HTC</name>
+<date>13/01/1999</date>
+</user>
+
+<user>
+<id>35</id>
+<name>CLARK KENT</name>
+<date>17/06/2005</date>
+</user>
+
+</Products>
